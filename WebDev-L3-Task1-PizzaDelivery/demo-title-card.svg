@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-labelledby="title desc">
+  <title id="title">Harshini Malepati — Pizza Delivery Full-Stack Application</title>
+  <desc id="desc">Demo title card for the Web Development and Designing track, Level 3 Task 1.</desc>
+  <rect width="1920" height="1080" fill="#f5f7f5"/>
+  <rect x="150" y="175" width="1620" height="730" rx="34" fill="#ffffff" stroke="#1b4635" stroke-width="8"/>
+  <text x="960" y="270" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" letter-spacing="5" fill="#1b4635">PROJECT DEMO</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="205" y="335" width="1510" height="150" rx="22" fill="#e8f0fb"/>
+    <rect x="205" y="520" width="1510" height="150" rx="22" fill="#e9f2e8"/>
+    <rect x="205" y="705" width="1510" height="150" rx="22" fill="#f4eee5"/>
+
+    <g fill="#234c72">
+      <circle cx="300" cy="385" r="28"/>
+      <path d="M248 456c3-37 24-57 52-57s49 20 52 57v8H248z"/>
+    </g>
+    <line x1="385" y1="360" x2="385" y2="460" stroke="#9bb1c6" stroke-width="4"/>
+    <text x="435" y="395" font-size="31" font-weight="700" fill="#354657">NAME</text>
+    <text x="435" y="448" font-size="48" font-weight="700" fill="#17251e">Harshini Malepati</text>
+
+    <g fill="none" stroke="#315c43" stroke-width="11" stroke-linejoin="round">
+      <rect x="250" y="558" width="105" height="70" rx="7"/>
+      <path d="M232 645h141l-12 16H244z" fill="#315c43" stroke="none"/>
+    </g>
+    <line x1="385" y1="545" x2="385" y2="645" stroke="#a8bba5" stroke-width="4"/>
+    <text x="435" y="580" font-size="31" font-weight="700" fill="#315c43">TRACK</text>
+    <text x="435" y="632" font-size="43" font-weight="700" fill="#17251e">Web Development &amp; Designing</text>
+
+    <g fill="none" stroke="#805d32" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="257" y="735" width="92" height="99" rx="9"/>
+      <path d="M278 735v-11h50v11M278 766h50M278 790h50M278 814h37"/>
+    </g>
+    <line x1="385" y1="730" x2="385" y2="830" stroke="#c7b59d" stroke-width="4"/>
+    <text x="435" y="765" font-size="31" font-weight="700" fill="#805d32">TASK</text>
+    <text x="435" y="818" font-size="39" font-weight="700" fill="#17251e">Level 3 — Task 1: Pizza Delivery Full-Stack Application</text>
+  </g>
+</svg>
