@@ -2,6 +2,13 @@
 
 A full-stack pizza ordering and inventory app built with React, Vite, Node.js, Express, MongoDB, Razorpay Test Mode, Nodemailer, and node-cron.
 
+## Submission summary
+
+- **Objective:** Build a pizza delivery platform with customer accounts, custom pizza ordering, test payments, admin order management, and inventory alerts.
+- **Steps performed:** Built the React customer and admin screens, added Express API routes and MongoDB models, connected Razorpay Test Mode, and implemented email verification, password reset, stock alerts, and order status polling.
+- **Tools used:** React, Vite, Node.js, Express, MongoDB Atlas, Razorpay, Nodemailer, and node-cron.
+- **Outcome:** Customers can register and verify an account, build or select a pizza, complete a test payment, and track order status. Admins can update order status and inventory and run low-stock checks.
+
 ## Features
 
 - Customer registration, email verification, login, and password reset
